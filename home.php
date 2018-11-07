@@ -44,14 +44,14 @@
       <h2 class="text-center">
           Benvenuti su CivicSense
         </h2>
-        <p><center> Tu segnali, al resto ce ne occupiamo noi</center></p>
+        <p> Tu segnali, al resto ce ne occupiamo noi</p>
 <br>
       <div class="row">
         <div class="col-sm-3 col-xs-6">
           <div class="card card-block">
             <img alt="" class="team-img" src="img/Persona.jpg">
               <div class="card-title-wrap">
-              <center><span class="card-title">1</span> <span class="card-text">Cittadino</span></center>
+              <span class="card-title">1</span> <span class="card-text">Cittadino</span>
               </div>
 
               <div class="team-over">
@@ -67,7 +67,7 @@
         <div class="card card-block">
           <img alt="" class="team-img" src="img/sinda.jpg">
               <div class="card-title-wrap">
-                <center><span class="card-title">2</span> <span class="card-text">Comune</span></center>
+                <span class="card-title">2</span> <span class="card-text">Comune</span>
               </div>
 
               <div class="team-over">
@@ -83,7 +83,7 @@
       <div class="card card-block">
         <img alt="" class="team-img" src="img/segretaria.jpg">
               <div class="card-title-wrap">
-                <center><span class="card-title">3</span> <span class="card-text">Ente</span></center>
+                <span class="card-title">3</span> <span class="card-text">Ente</span>
               </div>
 
               <div class="team-over">
@@ -99,7 +99,7 @@
       <div class="card card-block">
        <img alt="" class="team-img" src="img/Operaio.jpg">
               <div class="card-title-wrap">
-               <center><span class="card-title">4</span> <span class="card-text">Squadre di risoluzione</span></center>
+               <span class="card-title">4</span> <span class="card-text">Squadre di risoluzione</span>
               </div>
 
               <div class="team-over">
@@ -128,39 +128,39 @@
         </h2>
    <div class="row">
         <div class="feature-col col-lg-4 col-xs-12">
-     <center><img src= "img/profilo.png"></center>
-     <center><h3>Profilo</h3></center>
-     <center><p>Crea un profilo per gestire i tuoi dati. </p></center>
+     <img src= "img/profilo.png">
+     <h3>Profilo</h3>
+     <p>Crea un profilo per gestire i tuoi dati. </p>
          </div>
          <br>
          <div class="feature-col col-lg-4 col-xs-12">
-     <center><img src= "img/segnalazioni.png" alt=""></center>
-     <center><h3>Segnalazioni</h3></center>
-     <center><p>Scatta e carica la foto ed effettua le tue segnalazioni per aiutare la tua città. </p></center>
+     <img src= "img/segnalazioni.png" alt="">
+     <h3>Segnalazioni</h3>
+     <p>Scatta e carica la foto ed effettua le tue segnalazioni per aiutare la tua città. </p>
          </div>
           <br>
          <div class="feature-col col-lg-4 col-xs-12">
-     <center><img src= "img/localizzazione.png"></center>
-     <center><h3>Maps</h3></center>
-     <center><p>Condividi la posizione per agevolare i servizi.</p></center>
+     <img src= "img/localizzazione.png" alt="">
+     <h3>Maps</h3>
+     <p>Condividi la posizione per agevolare i servizi.</p>
          </div>
           
          <div class="feature-col col-lg-4 col-xs-12">
-     <center><img src= "img/tracking.png"></center>
-     <center><h3>Tracking</h3></center>
-     <center><p>Segui le tue segnalazioni quando e dove vuoi. </p></center>
+     <img src= "img/tracking.png" alt="">
+     <h3>Tracking</h3>
+     <p>Segui le tue segnalazioni quando e dove vuoi. </p>
          </div>    
          
           <div class="feature-col col-lg-4 col-xs-12">
-     <center><img src= "img/logostat.png"></center>
-     <center><h3>Statistiche</h3></center>
-     <center><p>Visualizza le statistiche sulle segnalazione del tuo comune.</p></center>
+     <img src= "img/logostat.png">
+     <h3>Statistiche</h3>
+     <p>Visualizza le statistiche sulle segnalazione del tuo comune.</p>
          </div> 
          
          <div class="feature-col col-lg-4 col-xs-12">
-     <center><img src= "img/elenco.png"></center>
-     <center><h3>Visualizza Segnalazioni</h3></center>
-     <center><p>Rimani aggiornato sulle segnalazioni presenti nella tua città</p></center>
+     <img src= "img/elenco.png">
+     <h3>Visualizza Segnalazioni</h3>
+    <p>Rimani aggiornato sulle segnalazioni presenti nella tua città</p>
          </div>   
     </div>
    </div>        
@@ -172,7 +172,7 @@
           <h2>Cerca una segnalazione con il codice di tracking!</h2>
          </div>
   
-          <center><a class="btn btn ente" href="tracking.php">Cerca</a></center>
+          <a class="btn btn ente" href="tracking.php">Cerca</a>
         
 </div>
     <br>
