@@ -65,7 +65,8 @@ mail($destinatario, $object,$message, $header);
 
 ?>
 
-<html lang="en">
+<html>
+<!DOCTYPE html>
 <head>
   <meta charset="utf-8">
   <title>CivicSense</title>
@@ -92,7 +93,7 @@ mail($destinatario, $object,$message, $header);
       <div class="modal-dialog">
       <div class="modal-content">
       <div class="modal-header">
-      <font color="#000000">RECUPERA PASSWORD</font>
+      
       <a class="btn btn_full" href="login.php">X</a>
       </div>
       <div class="modal-body">

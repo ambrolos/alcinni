@@ -1,6 +1,6 @@
 function controlla_registrazione(){
 
-var(document.FormRegistrazione_Ente)
+document.FormRegistrazione_Ente
 	{
      if(nome.value=="")
 		{
