@@ -112,6 +112,7 @@ $sql=mysql_query("select nome_comune from comune inner join ente where comune.id
           <option>approvata</option>
           <option>sospeso</option>
           <option>rifiutata</option>
+      
      	</select>
      </div>
      

@@ -67,7 +67,7 @@ header("Location:homeSquadra.php");
 <header id="header">
    <div class="container">
      <div id="logo" class="pull-left">
-       <a href="home.php"><img src="img/logo.png" alt=''></a>
+       <a href="home.php"><img src="img/logo.png" alt=""></a>
      </div>
 
      <nav id="nav-menu-container">

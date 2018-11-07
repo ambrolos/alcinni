@@ -127,7 +127,7 @@ $password=$result['password'];
        <div class="col-7"></div>
       
        <div class="col-3" >
-       <input type="submit" class="btn btn-ente"  name="Modifica" value="Salva"> 
+       <input type="submit" class="btn btn-ente"  name="Modifica" value="Salva">
 
        </div>
        <div class="col-2"></div>

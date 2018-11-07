@@ -67,19 +67,19 @@ $sql=mysql_query("select nome_comune from comune inner join ente where comune.id
 <?php
 session_start();
 include "db.php";
-$query = "SELECT COUNT(stato) FROM segnalazioni where id= $idUtente"; 
+$query = "SELECT COUNT(stato) FROM segnalazioni"; 
 $result = mysql_query($query); 
 $TOTALE_A = mysql_result($result,0,0); 
 
-$query = "SELECT COUNT(stato) FROM segnalazioni where id= $idUtente and stato='sospeso' "; 
+$query = "SELECT COUNT(stato) FROM segnalazioni where  stato='sospeso' "; 
 $result = mysql_query($query); 
 $TOTALE_B = mysql_result($result,0,0); 
 
-$query = "SELECT COUNT(stato) FROM segnalazioni where id= $idUtente and stato='approvata' "; 
+$query = "SELECT COUNT(stato) FROM segnalazioni where  stato='approvata' "; 
 $result = mysql_query($query); 
 $TOTALE_C = mysql_result($result,0,0); 
 
-$query = "SELECT COUNT(stato) FROM segnalazioni where id= $idUtente and stato='rifiutata' "; 
+$query = "SELECT COUNT(stato) FROM segnalazioni where  stato='conclusa' "; 
 $result = mysql_query($query); 
 $TOTALE_D = mysql_result($result,0,0); 
 ?>
@@ -104,7 +104,7 @@ $TOTALE_D = mysql_result($result,0,0);
 
         <div class="stats-col text-center col-md-3 col-sm-6">
           <div class="circle">
-            <span class="stats-no" data-toggle="counter-up"><?php echo $TOTALE_D; ?></span> Segnalazioni rifiutate
+            <span class="stats-no" data-toggle="counter-up"><?php echo $TOTALE_D; ?></span> Segnalazioni concluse
           </div>
         </div>
       </div>

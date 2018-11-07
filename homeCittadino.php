@@ -65,7 +65,7 @@ $nome=$_SESSION['nome'];
 <header id="header">
    <div class="container">
      <div id="logo" class="pull-left">
-       <a href="home.php"><img src="img/logo.png"></a>
+       <a href="home.php"><img src="img/logo.png" alt""></a>
      </div>    
      <nav id="nav-menu-container">
        <ul class="nav-menu">
@@ -151,7 +151,7 @@ $idUtente=$_SESSION['id'];
                  </p>
                  <br>
                    <form method="POST" action="homeCittadino.php">
-                 <center><input type="submit" name="Sengnalazioni" value="Segnalazioni" class="btn btn-ente"></center>
+                 <input type="submit" name="Sengnalazioni" value="Segnalazioni" class="btn btn-ente">
                  </form> 
                 </div>
               </div></a>

@@ -104,6 +104,7 @@ $idUtente=$_SESSION['id'];
           <option>approvata</option>
           <option>sospeso</option>
           <option>rifiutata</option>
+          <option>conclusa</option>
      	</select>
      </div>
      

@@ -33,7 +33,7 @@ $nome=$_POST['nome'];
       <div class="modal-dialog">
       <div class="modal-content">
       <div class="modal-header">
-      <font color="#000000">ACCEDI</font>
+      <h2><font color="#000000">ACCEDI</font></h2>
       <a class="btn btn_full" href="home.php">X</a>
       </div>
       <div class="modal-body">
