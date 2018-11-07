@@ -127,7 +127,7 @@ $password=$result['password'];
        <div class="col-7"></div>
       
        <div class="col-3" >
-       <center><input type="submit" class="btn btn-ente"  name="Modifica" value="Salva"></center> 
+       <input type="submit" class="btn btn-ente"  name="Modifica" value="Salva">
 
        </div>
        <div class="col-2"></div>
@@ -147,17 +147,17 @@ $password=$result['password'];
        <div class="col-lg-3 col-md-4">
          <div class="info">
            <div>
-             <i class="fa fa-map-marker"></i>
+             <em class="fa fa-map-marker"></em>
              <p>Campus Università degli Studi di Bari "Aldo Moro", BARI</p>
            </div>
 
            <div>
-             <i class="fa fa-envelope"></i>
+             <em class="fa fa-envelope"></em>
              <p>ambrogioLosito@gmail.com</p>
            </div>
 
            <div>
-            <i class="fa fa-envelope"></i>
+            <em class="fa fa-envelope"></em>
              <p>marcopiccinni93@gmail.com</p>
            </div>
 
