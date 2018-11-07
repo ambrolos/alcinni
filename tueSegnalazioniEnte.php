@@ -66,7 +66,7 @@ $sql=mysql_query("select nome_comune from comune inner join ente where comune.id
 <header id="header">
    <div class="container">
      <div id="logo" class="pull-left">
-       <a href="home.php"><img src="img/logo.png"></a>
+       <a href="home.php"><img src="img/logo.png" alt=""></a>
      </div>
 
      <nav id="nav-menu-container">
@@ -230,17 +230,17 @@ $colore="green";
        <div class="col-lg-3 col-md-4">
          <div class="info">
            <div>
-             <i class="fa fa-map-marker"></i>
+             <em class="fa fa-map-marker"></em>
              <p>Campus Università degli Studi di Bari "Aldo Moro", BARI</p>
            </div>
 
            <div>
-             <i class="fa fa-envelope"></i>
+             <em class="fa fa-envelope"></em>
              <p>ambrogioLosito@gmail.com</p>
            </div>
 
            <div>
-            <i class="fa fa-envelope"></i>
+            <em class="fa fa-envelope"></em>
              <p>marcopiccinni93@gmail.com</p>
            </div>
 

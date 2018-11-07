@@ -128,7 +128,7 @@
         </h2>
    <div class="row">
         <div class="feature-col col-lg-4 col-xs-12">
-     <img src= "img/profilo.png">
+     <img src= "img/profilo.png" alt="">
      <h3>Profilo</h3>
      <p>Crea un profilo per gestire i tuoi dati. </p>
          </div>
@@ -152,13 +152,13 @@
          </div>    
          
           <div class="feature-col col-lg-4 col-xs-12">
-     <img src= "img/logostat.png">
+     <img src= "img/logostat.png" alt="">
      <h3>Statistiche</h3>
      <p>Visualizza le statistiche sulle segnalazione del tuo comune.</p>
          </div> 
          
          <div class="feature-col col-lg-4 col-xs-12">
-     <img src= "img/elenco.png">
+     <img src= "img/elenco.png" alt="">
      <h3>Visualizza Segnalazioni</h3>
     <p>Rimani aggiornato sulle segnalazioni presenti nella tua città</p>
          </div>   

@@ -5,7 +5,7 @@ $nome=$_POST['nome'];
 	$email=$_POST['mail'];
     $password=$_POST['password'];
     ?>
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -33,7 +33,7 @@ $nome=$_POST['nome'];
       <div class="modal-dialog">
       <div class="modal-content">
       <div class="modal-header">
-      <h2><font color="#000000">ACCEDI</font></h2>
+      <h2>ACCEDI</h2>
       <a class="btn btn_full" href="home.php">X</a>
       </div>
       <div class="modal-body">

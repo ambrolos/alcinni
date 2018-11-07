@@ -67,7 +67,7 @@ while($result=mysql_fetch_array($query))
   <div class="modal-dialog">
   <div class="modal-content">
   <div class="modal-header">
-  <font color="#000000">REGISTRATI</font>
+  <h2>REGISTRATI</h2>
   <a class="btn btn_full" href="home.php">X</a>
   </div>
  <div class="modal-body">

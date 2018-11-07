@@ -178,17 +178,17 @@ while($result=mysql_fetch_array($query))
        <div class="col-lg-3 col-md-4">
          <div class="info">
            <div>
-             <i class="fa fa-map-marker"></i>
+             <em class="fa fa-map-marker"></em>
              <p>Campus Università degli Studi di Bari "Aldo Moro", BARI</p>
            </div>
 
            <div>
-             <i class="fa fa-envelope"></i>
+             <em class="fa fa-envelope"></em>
              <p>ambrogioLosito@gmail.com</p>
            </div>
 
            <div>
-            <i class="fa fa-envelope"></i>
+            <em class="fa fa-envelope"></em>
              <p>marcopiccinni93@gmail.com</p>
            </div>
 

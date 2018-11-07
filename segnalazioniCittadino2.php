@@ -38,11 +38,11 @@ $idUtente=$_SESSION['id'];
      <div class="row">
      </div>
       <div class="col-md-12">
-        <center><div class="container">
- <center> <h1 class="mb-5">Congratulazioni <?php echo "$nome $cognome";?>! </h1></center>
-  <center> <h2 class="mb-5">ora cosa desideri fare? </h2></center>
+        <div class="container">
+  <h1 class="mb-5">Congratulazioni <?php echo "$nome $cognome";?>! </h1>
+   <h2 class="mb-5">ora cosa desideri fare? </h2>
  
- </div></center>
+ </div>
         <br>
         <a class="btn btn_full" href="homeCittadino.php">Home</a>
         <br>
